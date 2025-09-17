@@ -17,4 +17,4 @@ A real-time currency converter web application built using **HTML, CSS, and Java
 ## 💻 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Sakshi101001/currency-converter.git
